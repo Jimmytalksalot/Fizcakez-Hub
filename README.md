@@ -1,6 +1,6 @@
 # 🌊 Blue Maroon
 
-![20240809_23h47m03s_grim](https://github.com/user-attachments/assets/5ae5a923-daf7-4ef6-860f-f95341e7c017)
+![decided-to-use-hyprland-v0-off4qy9kriid1](https://github.com/user-attachments/assets/84bcebfd-e7b4-4557-b55b-02506fb31708)
 
 
 
