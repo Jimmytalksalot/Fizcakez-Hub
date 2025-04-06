@@ -31,5 +31,7 @@
 
 **Installation**
 - Quite easy. Simply move each directory in the dotfiles folder to ~/.config. If there are directories of the same name, remove them or create a backup.
-- If the font needs installation, simply move the .tff file to ~/.local/fonts and then run `fc-cache -vf` in your terminal. 
+- If the font needs installation, simply move the .tff file to ~/.local/fonts and then run `fc-cache -vf` in your terminal.
+- Most may find the Tiny5 font hard to read, and if so, I reccomend using the Cozette font instead. You can find it here:
+  https://github.com/slavfox/Cozette (However, you may need to edit the configurations to be acustomed to the font.) 
 
