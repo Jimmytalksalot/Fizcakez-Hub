@@ -1,6 +1,6 @@
 # Dotfiles
 
-![hyprland-still-no-women-v0-q0vy8nlk3hzd1](https://github.com/user-attachments/assets/ff2e717c-ae3f-4aca-a2e2-f8450c9d9b9b)
+![hyprland-still-no-women-v0-q0vy8nlk3hzd1](https://github.com/user-attachments/assets/3ebd23c2-9281-47ea-ba21-ba3021cd4de6)
 
 
 
